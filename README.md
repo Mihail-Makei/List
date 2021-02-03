@@ -1,2 +1,2 @@
 # List
-Two C language implementations of bidirectional linked list
+A cache-friendly list built on dynamic arrays with some primitive data protection.
